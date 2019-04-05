@@ -1,1 +1,3 @@
-# A simple web application for tracking progress of project
+# Brief
+
+A simple web application for tracking progress of project
